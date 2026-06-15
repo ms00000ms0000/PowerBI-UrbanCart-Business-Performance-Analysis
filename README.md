@@ -12,9 +12,15 @@ The objective was to identify key business drivers affecting profitability and p
 
 ![Dashboard](Images/UrbanCart_Dashboard.png)
 
+---
+## Category Analysis Preview
 ![Dashboard](Images/UrbanCart_Category_Analysis.png)
 
+---
+## Region Analysis Preview
+
 ![Dashboard](Images/UrbanCart_Region_Analysis.png)
+
 ---
 
 ## Business Problem
