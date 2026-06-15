@@ -10,7 +10,7 @@ The objective was to identify key business drivers affecting profitability and p
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard_Overview.png)
+![Dashboard](Images/UrbanCart_Dashboard.png)
 
 ---
 
