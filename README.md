@@ -13,13 +13,32 @@ The objective was to identify key business drivers affecting profitability and p
 ![Dashboard](Images/UrbanCart_Dashboard.png)
 
 ---
-## Category Analysis Preview
+## Categorical Analysis Preview
 ![Dashboard](Images/UrbanCart_Category_Analysis.png)
 
 ---
-## Region Analysis Preview
+## Regional Analysis Preview
 
 ![Dashboard](Images/UrbanCart_Region_Analysis.png)
+
+---
+
+## 📂 Repository Structure
+
+```text
+UrbanCart-Sales-Profitability-Analysis/
+│
+├── Images/
+│   ├── Dashboard_Overview.png
+│   ├── Category_Analysis.png
+│   └── Regional_Analysis.png
+│
+├── PowerBI-UrbanCart-Business-Performance-Analysis.pbix
+│
+├── UrbanCart Superstore Clean Data.xlsx
+│
+└── README.md
+```
 
 ---
 
@@ -31,6 +50,53 @@ Despite generating substantial revenue, management wanted to understand:
 - Which regions are underperforming?
 - Does discounting negatively impact profitability?
 - Which products and customer segments drive business growth?
+
+---
+## 🗂️ Dataset Description
+
+The dataset contains **9,994 retail transactions** across multiple regions, customer segments, and product categories. It was used to analyze sales performance, profitability, customer behavior, and the impact of discounting on business outcomes.
+
+### Dataset Overview
+
+| Attribute | Description |
+|------------|------------|
+| Rows | 9,994 |
+| Columns | 25 |
+| Missing Values | 0 |
+| Data Type | Retail Sales Transactions |
+| Time Period | Multi-Year Retail Orders |
+
+### Key Columns
+
+| Column Name | Description |
+|-------------|-------------|
+| Order ID | Unique order identifier |
+| Order Date | Date when order was placed |
+| Ship Date | Date when order was shipped |
+| Delivery Days | Days taken for delivery |
+| Customer ID | Unique customer identifier |
+| Customer Name | Customer details |
+| Segment | Consumer, Corporate, Home Office |
+| Region | Central, East, South, West |
+| Category | Furniture, Office Supplies, Technology |
+| Sub-Category | Detailed product classification |
+| Product Name | Product description |
+| Sales | Revenue generated |
+| Quantity | Units sold |
+| Discount | Discount applied on order |
+| Profit | Profit generated |
+| Profit Margin | Profitability ratio |
+
+### Business Dimensions Covered
+
+- Customer Analysis
+- Product Analysis
+- Regional Analysis
+- Sales Performance
+- Profitability Analysis
+- Discount Impact Analysis
+- KPI Tracking
+- Business Decision Support
 
 ---
 
